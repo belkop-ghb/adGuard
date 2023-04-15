@@ -3,6 +3,7 @@
 ||youtube.com^
 ||www.youtube.com^
 ||googlevideo.com^
+||ggpht.com^
 ||ytimg.com^
 ||googleapis.com^
 ||youtube-nocookie.com^
