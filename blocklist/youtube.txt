@@ -1,7 +1,8 @@
 # This blocklist helps Adguard admin restrict access to youtube and its domains.
 
 ||youtube.com^
+||www.youtube.com^
 ||googlevideo.com^
 ||ytimg.com^
-||youtubei.googleapis.com^
+||googleapis.com^
 ||youtube-nocookie.com^
