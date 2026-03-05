@@ -1,3 +1,5 @@
 # This blocklist helps Adguard admin restrict access to youtube and its domains.
 
+||instagram.com^
 ||cdninstagram.com^
+||fbcdn.net^
